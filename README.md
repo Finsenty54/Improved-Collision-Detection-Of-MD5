@@ -10,3 +10,7 @@ Each message difference has the minimum and maximum conditions path.
 compile
 
 `$ make`
+
+use
+
+`$ ./collisionDetect`
